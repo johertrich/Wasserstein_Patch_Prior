@@ -6,6 +6,8 @@ Please cite the paper, if you use the code.
 The repository implements image superresolution for textures or material microstructures.
 The file `wgenpatex.py` is adapted from the implementation of [2] availible at https://github.com/ahoudard/wgenpatex.
 
+The used images of material microstructures have been acquired in the frame of the EU Horizon 2020 Marie Sklodowska-Curie Actions Innovative Training Network MUMMERING (MUltiscale, Multimodal and Multidimensional imaging for EngineeRING, Grant Number 765604) at the beamline TOMCAT of the SLS by A. Saadaldin, D. Bernard, and F. Marone Welford.
+
 For questions and bug reports, please contact Johannes Hertrich (j.hertrich@math.tu-berlin.de).
 
 ## Requirements and Usage
