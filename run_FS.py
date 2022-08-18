@@ -2,7 +2,7 @@
 #
 # J. Hertrich, A. Houdard and C. Redenbach.
 # Wasserstein Patch Prior for Image Superresolution.
-# ArXiv Preprint#2109.12880
+# IEEE Transactions on Computational Imaging, 2022.
 #
 # Please cite the paper, if you use this code.
 #

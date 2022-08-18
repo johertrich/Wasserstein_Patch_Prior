@@ -1,6 +1,7 @@
 # Wasserstein Patch Prior for Image Superresolution
 
-This repository contains the implementations corresponding to the paper [1] availible at https://arxiv.org/abs/2109.12880.
+This repository contains the implementations corresponding to the paper [1] availible at https://doi.org/10.1109/TCI.2022.3199600.
+A preprint can be found at https://arxiv.org/abs/2109.12880.
 Please cite the paper, if you use the code.
 
 The repository implements image superresolution for textures or material microstructures.
@@ -30,7 +31,7 @@ A short discription of each script/function can be found in the corresponding he
 
 [1] J. Hertrich, A. Houdard and C. Redenbach.  
 Wasserstein Patch Prior for Image Superresolution.  
-ArXiv Preprint#2109.12880
+IEEE Transactions on Computational Imaging, 2022.
 
 [2] A. Houdard, A. Leclaire, N. Papadakis and J. Rabin.  
 Wasserstein Generative Models for Patch-based Texture Synthesis.  
